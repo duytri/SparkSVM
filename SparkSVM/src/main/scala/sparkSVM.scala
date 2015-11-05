@@ -39,7 +39,7 @@ object sparkSVM {
     println("Area under ROC = " + auROC)
 
     // Save and load model
-    model.save(sc, "myModelPath")
-    val sameModel = SVMModel.load(sc, "myModelPath")
+    model.save(sc, "/home/hduser/workspace/svmModels")
+    val sameModel = SVMModel.load(sc, "/home/hduser/workspace/svmModels")
   }
 }
