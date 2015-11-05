@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging /home/hduser/git/SparkSVM/SparkSVM/target/scala-2.10/spark-svm_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	main[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/git/SparkSVM/SparkSVM/target/scala-2.10/classes/main[0m
+[0m[[0mdebug[0m] [0m	main/scala/sparkSVM.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/git/SparkSVM/SparkSVM/target/scala-2.10/classes/main/scala/sparkSVM.class[0m
+[0m[[0mdebug[0m] [0m	main/scala[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/git/SparkSVM/SparkSVM/target/scala-2.10/classes/main/scala[0m
+[0m[[0mdebug[0m] [0m	main/scala/sparkSVM$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/git/SparkSVM/SparkSVM/target/scala-2.10/classes/main/scala/sparkSVM$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/sparkSVM$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hduser/git/SparkSVM/SparkSVM/target/scala-2.10/classes/main/scala/sparkSVM$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
